@@ -12,11 +12,10 @@
   	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Checking Account Statement.png" style="max-width:100%;"/>
             </div>
           </div>
-	    <div class="block two first">
- <div class="wrap">
-	
+	</div>
+	{:/}
 	     ASP .NET MVC Implementierung - How To siehe
-            <pre><a href="https://www.youtube.com/watch?v=zWFoZb6EiwU">Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE</a></pre>
+             Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE Tutorial on Youtube: https://www.youtube.com/watch?v=zWFoZb6EiwU
 	    Liste der verwendeten Technologien
            
   	   	1 - The MVC Mindset 04:36 - Requests Handled by Actions 
@@ -48,4 +47,4 @@
 		26 - Challenge: Implementing Transfers  
 		27 - Challenge: Solution 
           
-{:/}
+
