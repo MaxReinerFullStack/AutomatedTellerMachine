@@ -1,4 +1,4 @@
-```html
+{::nomarkdown}
 <h2>Advanced Teller Machine in ASP .NET</h2>
 <pre>
     <div class="container">
@@ -51,4 +51,4 @@
 	   </div>
     </div>
 </pre>
-```
+{:/}
