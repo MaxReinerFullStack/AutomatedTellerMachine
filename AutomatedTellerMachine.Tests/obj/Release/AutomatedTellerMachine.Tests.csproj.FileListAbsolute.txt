@@ -1,0 +1,1 @@
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\AutomatedTellerMachine 2\AutomatedTellerMachine 2.Tests\obj\Release\AutomatedTellerMachine 2.Tests.csproj.CoreCompileInputs.cache
