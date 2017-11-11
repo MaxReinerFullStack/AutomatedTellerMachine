@@ -15,13 +15,13 @@
 	</div>
 	{:/}
 	    <h3> ASP .NET MVC Implementierung<h3/>
-	     <div>How To - siehe:<br/>
-             Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE Tutorial on Youtube: <br/> https://www.youtube.com/watch?v=zWFoZb6EiwU<br/><br/></div>
+	     <pre>How To - siehe:<br/>
+             Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE Tutorial on Youtube<br/>https://www.youtube.com/watch?v=zWFoZb6EiwU<br/><br/></pre>
 	    <h3>Liste der verwendeten Technologien</h3>
            
-  	   	1 - The MVC Mindset 04:36 - Requests Handled by Actions 
-		2 - ASP . NET Routing 18:36 - Action Result Types  
-		3 - Action Selectors 27:40 - Filters 34:00 - Razor Syntax  
+  	   	1 - The MVC Mindset - Requests Handled by Actions 
+		2 - ASP . NET Routing - Action Result Types  
+		3 - Action Selectors - Filters  - Razor Syntax  
 		4 - Layouts - HTML Helpers - Building and Minification  
 		5 - Responsive Design with BootStrap 
 		6 - Models in Actions and Views  
