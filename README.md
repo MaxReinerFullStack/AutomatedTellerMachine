@@ -1,22 +1,23 @@
 {::nomarkdown}
-<h2>Advanced Teller Machine in ASP .NET</h2>
+<h1>Advanced Teller Machine in ASP .NET</h1>
 <pre>
     <div class="container">
-            <h1>MVC Implementierung - How To siehe <a href="https://www.youtube.com/watch?v=zWFoZb6EiwU">Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE</a></h1>
+            <h2>MVC Implementierung - How To siehe</h2>
+            <h2><a href="https://www.youtube.com/watch?v=zWFoZb6EiwU">Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE</a></h2>
 	    <div class="block two first">
             <h2>Startseite</h2>
             <div class="wrap">
-  	    <img src="https://github.com/MaxReinerFullStack/AutomatedTellerMachine/Ressources/Startseite.png" style="max-width:100%;">
+  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Startseite.png" style="max-width:100%;">
 	    </div>
     </div>
 		<div class="block two first">
             <h2>Kontoauszug</h2>
             <div class="wrap">
-  	    <img src="https://github.com/MaxReinerFullStack/AutomatedTellerMachine/Ressources/Checking Account Statement.png" style="max-width:100%;">
+  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Checking Account Statement.png" style="max-width:100%;">
             </div>
           </div>
 	    <div class="block two first">
-
+ <div class="wrap">
 	    <h2>Liste der verwendeten Technologien - siehe auch <a href="https://www.youtube.com/watch?v=zWFoZb6EiwU">Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE</a></h2>
             <div class="wrap">
   	   	00:01 - The MVC Mindset 04:36 - Requests Handled by Actions <br/>
@@ -47,6 +48,7 @@
 		3:17:16 - Web.config Transformations  <br/>
 		3:24:24 - Challenge: Implementing Transfers  <br/>
 		3:28:23 - Challenge: Solution <br/>
+            </div>
             </div>
 	   </div>
     </div>
