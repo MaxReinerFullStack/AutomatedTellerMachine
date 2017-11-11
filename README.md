@@ -14,8 +14,8 @@
           </div>
 	</div>
 	{:/}
-	     ASP .NET MVC Implementierung - How To siehe
-             Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE Tutorial on Youtube: https://www.youtube.com/watch?v=zWFoZb6EiwU
+	    <br/> ASP .NET MVC Implementierung - How To siehe<br/>
+             Learn ASP NET MVC 5 Complete Tutorial 2016 COMPLETE Tutorial on Youtube: https://www.youtube.com/watch?v=zWFoZb6EiwU<br/><br/>
 	    Liste der verwendeten Technologien
            
   	   	1 - The MVC Mindset 04:36 - Requests Handled by Actions 
