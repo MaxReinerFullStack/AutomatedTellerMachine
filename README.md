@@ -1,18 +1,16 @@
 {::nomarkdown}
-<h1>Advanced Teller Machine in ASP .NET</h1>
-<pre>
+<h2>Advanced Teller Machine in ASP .NET</h2>
     <div class="container">
-         
 	    <div class="block two first">
             <h2>Startseite</h2>
             <div class="wrap">
-  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Startseite.png" style="max-width:100%;">
+  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Startseite.png" style="max-width:100%;" />
 	    </div>
     </div>
 		<div class="block two first">
             <h2>Kontoauszug</h2>
             <div class="wrap">
-  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Checking Account Statement.png" style="max-width:100%;">
+  	    <img src="https://raw.githubusercontent.com/MaxReinerFullStack/AutomatedTellerMachine/master/AutomatedTellerMachine/Ressources/Checking Account Statement.png" style="max-width:100%;"/>
             </div>
           </div>
 	    <div class="block two first">
@@ -53,5 +51,4 @@
             </div>
 	   </div>
     </div>
-</pre>
 {:/}
